@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(12, 12, 31);
+    font-family: Arial;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+#caixa{
+    background-color: aliceblue;
+    margin: auto;
+    padding: 25px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+p{
+    font-size: larger;
+}
